@@ -5,7 +5,7 @@ import { InfoGrid, InfoImage, TextWrapper } from './InfoSectionStyles';
 const InfoSection = () => {
 	const content = [
 		{
-			img: './images/team1.jpg',
+			img: 'https://i.imgur.com/jMrwyMu.jpg',
 			content: [
 				{
 					title: 'Shopping through overseas online stores',
@@ -25,7 +25,7 @@ const InfoSection = () => {
 			],
 		},
 		{
-			img: './images/team2.jpg',
+			img: 'https://i.imgur.com/FHS9uWZ.jpg',
 			content: [
 				{
 					title: 'Pay online securely with instant notifications.',
@@ -45,7 +45,7 @@ const InfoSection = () => {
 			],
 		},
 		{
-			img: './images/team3.jpg',
+			img: 'https://i.imgur.com/1cXpo2T.jpg',
 			content: [
 				{
 					title: 'Receive money from around the world',
