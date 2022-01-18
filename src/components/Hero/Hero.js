@@ -58,7 +58,7 @@ const Hero = () => {
 						</Text>
 						<Video
 							width="70%"
-							src="https://vod-progressive.akamaized.net/exp=1642357262~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3217%2F26%2F666089162%2F3064930125.mp4~hmac=525836d945f63fa2381229ace530b8508c6f00051fc8f85ffed302cbf24c6f3e/vimeo-prod-skyfire-std-us/01/3217/26/666089162/3064930125.mp4?filename=360p.mp4"
+							src="https://player.vimeo.com/external/667149117.sd.mp4?s=a2187b0175f0295956bf797d5322b0955708c327&profile_id=164&oauth_token_id=57447761"
 							type="video/mp4"
 							autoPlay
 							muted
